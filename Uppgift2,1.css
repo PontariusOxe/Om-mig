@@ -110,7 +110,6 @@ hr{
 }
 .Minecraft{
     height: 40vh;
-    border-radius:5%;
     border-top: limegreen 4px solid;
     border-bottom: limegreen 4px solid;
 }
