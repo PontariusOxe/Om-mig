@@ -28,7 +28,6 @@ hr{
     display: flex;
     gap:5%;
     list-style: none;
-    height: 7vh;
 }
 .Buttons{
     padding: 1.5vh 2.5vw;
